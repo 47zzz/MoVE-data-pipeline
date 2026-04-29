@@ -1,0 +1,26 @@
+# Container images (large binaries)
+*.sqsh
+*.sif
+.singularity_tmp/
+.singularity_cache/
+
+# Runtime-generated files
+shards/
+jobs.jsonl
+output/
+logs/
+hf_cache/
+
+# User-provided inputs (not part of repo)
+manifest_local.jsonl
+emo_prompts/
+checkpoints_writable/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+
+# macOS
+.DS_Store
