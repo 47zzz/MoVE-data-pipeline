@@ -4,6 +4,7 @@
 [![Demo](https://img.shields.io/badge/Demo-Live-4f46e5)](https://47zzz.github.io/MoVE/)
 [![Model Code](https://img.shields.io/badge/Code-MoVE--code-181717)](https://github.com/47zzz/MoVE-code)
 [![Project](https://img.shields.io/badge/Project-MoVE-181717)](https://github.com/47zzz/MoVE)
+[![Dataset](https://img.shields.io/badge/Dataset-HuggingFace-ff9d00)](https://huggingface.co/datasets/47z/MoVE)
 
 Data generation pipeline for **MoVE: Translating Laughter and Tears via Mixture of Vocalization Experts in Speech-to-Speech Translation** (Interspeech 2026, Under Review).
 
@@ -18,6 +19,7 @@ This repository contains the scripts for synthesizing the MoVE bilingual (Chines
 | [47zzz/MoVE](https://github.com/47zzz/MoVE) | Project page & demo (GitHub Pages) |
 | [47zzz/MoVE-code](https://github.com/47zzz/MoVE-code) | Model training & inference (LoRA / xLoRA on Kimi-Audio) |
 | **47zzz/MoVE-data-pipeline** (this repo) | Dataset generation pipeline |
+| [datasets/47z/MoVE](https://huggingface.co/datasets/47z/MoVE) | Generated dataset on HuggingFace |
 
 ---
 
